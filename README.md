@@ -1,2 +1,2 @@
-# Kosarkaski-tim
-Ideja ove aplikacije je da nekim osobama od kojih zavisi klub i njegovo funkcionosanje ( igrači, trener ,predsednik, rukovodstvo…) omogući pristup odredjenim podacima o klubu, transferima, igračima, finansijama a koji mogu omogućiti bolje funkcionisanje kluba, kao i donosenje određenih odluka značajnih za budućnost kluba.
+# Basketball manager
+The idea of this application is to enable easy management of the club and its functioning for people inside of the club organisation (coach, president...) and to enable to access certain data about the club itself, transfers, players or finances. It helps management team to make certain decisions important for the future and better functioning of the club.
